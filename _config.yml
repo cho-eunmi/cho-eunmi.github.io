@@ -21,9 +21,9 @@ navbar-links:
 # --- Logo --- #
 ################
 
-avatar: "assets/img/img.jpg"
-avatar-size: 100px
-round-avatar: true
+#avatar: "assets/img/img.jpg"
+#avatar-size: 100px
+#round-avatar: true
 
 #####################################
 # --- Footer social media links --- #
@@ -50,17 +50,17 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-page-col: "#F0F6FF"
-text-col: "#1C3557"
-link-col: "#1C6EA4"
-hover-col: "#A8C8E8"
-navbar-col: "#1C3557"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#122540"
-footer-col: "#1C3557"
-footer-text-col: "#A8C8E8"
-footer-link-col: "#FFFFFF"
-footer-hover-col: "#A8C8E8"
+page-col: "#FFFFFF"
+text-col: "#1a1a1a"
+link-col: "#333333"
+hover-col: "#555555"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#1a1a1a"
+navbar-border-col: "#e0e0e0"
+footer-col: "#f8f8f8"
+footer-text-col: "#777777"
+footer-link-col: "#333333"
+footer-hover-col: "#000000"
 
 ################
 # --- Misc --- #
